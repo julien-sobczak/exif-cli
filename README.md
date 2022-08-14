@@ -2,9 +2,7 @@
 
 CLI to automated EXIF manipulation on a batch of pictures.
 
-**This project relies on Python module [exif](https://gitlab.com/TNThieding/exif), which is not actively maintained.** Use this project for inspiration only.
-
-I use it to process batch of files while scanning old pictures before archival.
+**This project relies on Python module [exif](https://gitlab.com/TNThieding/exif), which is not actively maintained. Use this project for inspiration only. I use it to process batch of files while scanning old pictures before archival.**
 
 
 ## Installation

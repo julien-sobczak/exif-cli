@@ -3,7 +3,7 @@ import argparse
 import os
 import sys
 from exif import Image
-from .utils import format_date, parse_location
+from exifcli.utils import format_date, parse_location
 
 
 def add_exif(files = [], date=None, location=None, date_unique=False, override=False):

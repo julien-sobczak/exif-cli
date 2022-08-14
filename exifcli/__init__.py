@@ -6,7 +6,7 @@ import tempfile
 import sys
 import re
 from exif import Image
-from .cli import add_exif
+from exifcli.cli import add_exif
 
 
 def main():
